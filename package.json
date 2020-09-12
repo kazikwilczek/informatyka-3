@@ -22,7 +22,7 @@
     "discord.js-commando": "^0.10.0",
     "fs": "0.0.1-security",
     "iso-639-1": "^2.1.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "simple-youtube-api": "^5.2.1",
     "ytdl-core": "^2.1.1"
